@@ -1,2 +1,2 @@
-#Some text
-But another version
+#New file created especially for readme
+Some text
